@@ -1,0 +1,11 @@
+D:\repos\ORM\Cars\Cars\bin\Debug\net9.0\Cars.deps.json
+D:\repos\ORM\Cars\Cars\bin\Debug\net9.0\Cars.dll
+D:\repos\ORM\Cars\Cars\bin\Debug\net9.0\Cars.pdb
+D:\repos\ORM\Cars\Cars\obj\Debug\net9.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ORM\Cars\Cars\obj\Debug\net9.0\Cars.AssemblyInfoInputs.cache
+D:\repos\ORM\Cars\Cars\obj\Debug\net9.0\Cars.AssemblyInfo.cs
+D:\repos\ORM\Cars\Cars\obj\Debug\net9.0\Cars.csproj.CoreCompileInputs.cache
+D:\repos\ORM\Cars\Cars\obj\Debug\net9.0\Cars.dll
+D:\repos\ORM\Cars\Cars\obj\Debug\net9.0\refint\Cars.dll
+D:\repos\ORM\Cars\Cars\obj\Debug\net9.0\Cars.pdb
+D:\repos\ORM\Cars\Cars\obj\Debug\net9.0\ref\Cars.dll

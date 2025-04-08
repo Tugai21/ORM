@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airlines", "Airlines\Airlines.csproj", "{90A20205-B097-43E7-B1C1-D6C6902E0914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airlines.DataContext", "Airlines.DataContext\Airlines.DataContext.csproj", "{88058370-88EA-47BC-A153-7AE71356BC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A20205-B097-43E7-B1C1-D6C6902E0914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A20205-B097-43E7-B1C1-D6C6902E0914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A20205-B097-43E7-B1C1-D6C6902E0914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A20205-B097-43E7-B1C1-D6C6902E0914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88058370-88EA-47BC-A153-7AE71356BC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88058370-88EA-47BC-A153-7AE71356BC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88058370-88EA-47BC-A153-7AE71356BC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88058370-88EA-47BC-A153-7AE71356BC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

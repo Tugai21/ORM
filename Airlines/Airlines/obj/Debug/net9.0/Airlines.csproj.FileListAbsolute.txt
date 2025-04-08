@@ -1,0 +1,14 @@
+D:\repos\ORM\Airlines\Airlines\bin\Debug\net9.0\Airlines.deps.json
+D:\repos\ORM\Airlines\Airlines\bin\Debug\net9.0\Airlines.runtimeconfig.json
+D:\repos\ORM\Airlines\Airlines\bin\Debug\net9.0\Airlines.dll
+D:\repos\ORM\Airlines\Airlines\bin\Debug\net9.0\Airlines.pdb
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\Airlines.csproj.AssemblyReference.cache
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\Airlines.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\Airlines.AssemblyInfoInputs.cache
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\Airlines.AssemblyInfo.cs
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\Airlines.csproj.CoreCompileInputs.cache
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\Airlines.dll
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\refint\Airlines.dll
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\Airlines.pdb
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\Airlines.genruntimeconfig.cache
+D:\repos\ORM\Airlines\Airlines\obj\Debug\net9.0\ref\Airlines.dll

@@ -1,0 +1,17 @@
+D:\repos\ORM\Airlines\DataContext\bin\Debug\net9.0\DataContext.deps.json
+D:\repos\ORM\Airlines\DataContext\bin\Debug\net9.0\DataContext.runtimeconfig.json
+D:\repos\ORM\Airlines\DataContext\bin\Debug\net9.0\DataContext.dll
+D:\repos\ORM\Airlines\DataContext\bin\Debug\net9.0\DataContext.pdb
+D:\repos\ORM\Airlines\DataContext\bin\Debug\net9.0\Airlines.dll
+D:\repos\ORM\Airlines\DataContext\bin\Debug\net9.0\Airlines.pdb
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataContext.csproj.AssemblyReference.cache
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataContext.AssemblyInfoInputs.cache
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataContext.AssemblyInfo.cs
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataContext.csproj.CoreCompileInputs.cache
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataCont.586C3566.Up2Date
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataContext.dll
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\refint\DataContext.dll
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataContext.pdb
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\DataContext.genruntimeconfig.cache
+D:\repos\ORM\Airlines\DataContext\obj\Debug\net9.0\ref\DataContext.dll

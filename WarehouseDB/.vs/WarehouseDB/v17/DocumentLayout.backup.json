@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\ORM\\WarehouseDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668B45EA-2931-43AE-B5ED-C4E684FBE7EE}|WarehouseDB\\WarehouseDB.csproj|d:\\repos\\orm\\warehousedb\\warehousedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668B45EA-2931-43AE-B5ED-C4E684FBE7EE}|WarehouseDB\\WarehouseDB.csproj|solutionrelative:warehousedb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77D0A97-0D21-4E7B-B914-22B8D6C08CA4}|Database\\Database.csproj|d:\\repos\\orm\\warehousedb\\database\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77D0A97-0D21-4E7B-B914-22B8D6C08CA4}|Database\\Database.csproj|solutionrelative:database\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668B45EA-2931-43AE-B5ED-C4E684FBE7EE}|WarehouseDB\\WarehouseDB.csproj|d:\\repos\\orm\\warehousedb\\warehousedb\\warehousedb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{668B45EA-2931-43AE-B5ED-C4E684FBE7EE}|WarehouseDB\\WarehouseDB.csproj|solutionrelative:warehousedb\\warehousedb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77D0A97-0D21-4E7B-B914-22B8D6C08CA4}|Database\\Database.csproj|d:\\repos\\orm\\warehousedb\\database\\idbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A77D0A97-0D21-4E7B-B914-22B8D6C08CA4}|Database\\Database.csproj|solutionrelative:database\\idbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A77D0A97-0D21-4E7B-B914-22B8D6C08CA4}|Database\\Database.csproj|d:\\repos\\orm\\warehousedb\\database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A77D0A97-0D21-4E7B-B914-22B8D6C08CA4}|Database\\Database.csproj|solutionrelative:database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarehouseDB",
+              "DocumentMoniker": "D:\\repos\\ORM\\WarehouseDB\\WarehouseDB\\WarehouseDB.csproj",
+              "RelativeDocumentMoniker": "WarehouseDB\\WarehouseDB.csproj",
+              "ToolTip": "D:\\repos\\ORM\\WarehouseDB\\WarehouseDB\\WarehouseDB.csproj",
+              "RelativeToolTip": "WarehouseDB\\WarehouseDB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T09:51:20.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database",
+              "DocumentMoniker": "D:\\repos\\ORM\\WarehouseDB\\Database\\Database.csproj",
+              "RelativeDocumentMoniker": "Database\\Database.csproj",
+              "ToolTip": "D:\\repos\\ORM\\WarehouseDB\\Database\\Database.csproj",
+              "RelativeToolTip": "Database\\Database.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T09:30:09.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDbConnection.cs",
+              "DocumentMoniker": "D:\\repos\\ORM\\WarehouseDB\\Database\\IDbConnection.cs",
+              "RelativeDocumentMoniker": "Database\\IDbConnection.cs",
+              "ToolTip": "D:\\repos\\ORM\\WarehouseDB\\Database\\IDbConnection.cs",
+              "RelativeToolTip": "Database\\IDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:31:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "D:\\repos\\ORM\\WarehouseDB\\Database\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Database\\DbConnection.cs",
+              "ToolTip": "D:\\repos\\ORM\\WarehouseDB\\Database\\DbConnection.cs",
+              "RelativeToolTip": "Database\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:30:57.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\ORM\\WarehouseDB\\WarehouseDB\\Program.cs",
+              "RelativeDocumentMoniker": "WarehouseDB\\Program.cs",
+              "ToolTip": "D:\\repos\\ORM\\WarehouseDB\\WarehouseDB\\Program.cs",
+              "RelativeToolTip": "WarehouseDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:37:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
